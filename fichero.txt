@@ -1,11 +1,1 @@
-arriba
-abajo
-vsc
-a4
-vsc5
-a6
-a7
-a8
-a9
-a10
-11
+borro todo
